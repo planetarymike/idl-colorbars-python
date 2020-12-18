@@ -5,6 +5,6 @@ These were originally designed using colorspacious and theoretically this could 
 
 Here's the list of colormaps:
 
-![idl_png_out](https://github.com/planetarymike/idl-colorbars-python/blob/master/all_idl_tables.png?raw=true)
+![idl_png_out](https://github.com/planetarymike/idl-colorbars-python/blob/master/idl_colorbars/all_idl_tables.png?raw=true)
 
 If you want to use only a portion of a colormap then you can set vmin and vmax between 0 and 1 to select that portion of the range.
